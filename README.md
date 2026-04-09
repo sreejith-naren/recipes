@@ -1,2 +1,2 @@
 # recipes
-A recipe website with backend golang and frontend react
+A recipe website with backend golang and frontend angular
